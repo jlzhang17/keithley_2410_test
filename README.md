@@ -6,3 +6,6 @@ In the afternoon, Shu Xian and I successfully used this program to test the IV c
 
 June 13 Evening:
 No response has been received from the manufacturer yet.
+
+June 23:
+Finally the laser system arrived, waiting for testing.
